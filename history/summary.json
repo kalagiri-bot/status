@@ -22,17 +22,19 @@
     "url": "$NEXTCLOUD_URL",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/141px-Nextcloud_Logo.svg.png",
     "slug": "nextcloud-fl",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1418,
-    "timeDay": 1418,
-    "timeWeek": 1418,
-    "timeMonth": 1418,
-    "timeYear": 1418,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 3418,
+    "timeDay": 3418,
+    "timeWeek": 3418,
+    "timeMonth": 3418,
+    "timeYear": 3418,
+    "dailyMinutesDown": {
+      "2022-07-20": 0
+    }
   }
 ]
