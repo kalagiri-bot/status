@@ -19,7 +19,7 @@ status-website:
   faviconSvg: 'https://thekrishna.in/assets/img/KK.svg'
   logoUrl: 'https://thekrishna.in/assets/img/KK.svg'
   name: Uptime
-  introTitle: Uptime monitor and status page.
+  introTitle: Website monitoring and status page.
   introMessage: Don't wait for the metrics to come to you.
   navbar:
     - title: Status
@@ -46,4 +46,4 @@ workflowSchedule:
   summary: 0 * * * *
   updateTemplate: 0 * * * *
   updates: 0 * * * *
-  uptime: '*/5 * * * *'
+  uptime: */30 * * * *
