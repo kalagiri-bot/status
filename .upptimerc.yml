@@ -19,7 +19,7 @@ status-website:
   faviconSvg: 'https://thekrishna.in/assets/img/KK.svg'
   logoUrl: 'https://thekrishna.in/assets/img/KK.svg'
   name: Uptime
-  introTitle: Uptime monitor and status page.
+  introTitle: Website monitoring and status page.
   introMessage: Don't wait for the metrics to come to you.
   navbar:
     - title: Status
@@ -31,7 +31,10 @@ status-website:
   metaTags:
     - name: robots
       content: noindex
-      
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+
 commitMessages:
   commitAuthorName: 'Krishna Alagiri [ʙᴏᴛ]'
   commitAuthorEmail: 92151357+kalagiri-bot@users.noreply.github.com
@@ -40,10 +43,10 @@ i18n:
     footer: Managed by [Krishnakanth Alagiri](https://thekrishna.in)
   
 workflowSchedule:
-  graphs: 0 * * * *
-  responseTime: 0 */6 * * *
-  staticSite: 0 * * * *
-  summary: 0 * * * *
-  updateTemplate: 0 * * * *
-  updates: 0 * * * *
-  uptime: '*/5 * * * *'
+  graphs: "0 * * * *"
+  responseTime: "0 */6 * * *"
+  staticSite: "0 * * * *"
+  summary: "0 * * * *"
+  updateTemplate: "0 * * * *"
+  updates: "0 * * * *"
+  uptime: "*/30 * * * *"

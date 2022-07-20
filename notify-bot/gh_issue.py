@@ -16,7 +16,8 @@ def get_issue(issue_number):
         description: Notification Body
         label: Issue Label
     """
-    endpoint = "https://api.github.com/repos/kalagiri-bot/uptime/issues/"
+    # TODO: Type hinting for the function
+    endpoint = "https://api.github.com/repos/kalagiri-bot/status/issues/"
     gh_issue = requests.get(f"{endpoint}{issue_number}").json()
 
     labels = []
@@ -50,6 +51,7 @@ def get_issue(issue_number):
         description = gh_issue["body"]
         label = "others"
 
+    # TODO: This could've been a dictionary
     return (gh_issue["title"],
             gh_issue["created_at"],
             description,
