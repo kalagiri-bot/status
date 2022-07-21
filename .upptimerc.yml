@@ -22,12 +22,8 @@ status-website:
   introTitle: Website monitoring and status page.
   introMessage: Don't wait for the metrics to come to you.
   navbar:
-    - title: Status
-      href: /
     - title: Website
       href: 'https://thekrishna.in/'
-    - title: GitHub
-      href: 'https://github.com/bearlike'
   metaTags:
     - name: robots
       content: noindex
