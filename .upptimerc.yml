@@ -5,7 +5,7 @@ sites:
   - name: thekrishna.in (Portfolio)
     url: 'https://thekrishna.in/'
     icon: 'https://thekrishna.in/favicon.ico'
-  - name: Nextcloud (FL)
+  - name: FL - Nextcloud
     url: $NEXTCLOUD_URL
     icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/141px-Nextcloud_Logo.svg.png'
     maxResponseTime: 5000
