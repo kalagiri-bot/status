@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 158,
-    "timeDay": 127,
-    "timeWeek": 152,
-    "timeMonth": 152,
-    "timeYear": 158,
+    "time": 159,
+    "timeDay": 195,
+    "timeWeek": 158,
+    "timeMonth": 154,
+    "timeYear": 159,
     "dailyMinutesDown": {
       "2022-08-19": 29
     }
@@ -25,16 +25,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/141px-Nextcloud_Logo.svg.png",
     "slug": "fl-nextcloud",
     "status": "up",
-    "uptime": "95.47%",
+    "uptime": "95.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.00%",
-    "uptimeMonth": "95.47%",
-    "uptimeYear": "95.47%",
-    "time": 723,
-    "timeDay": 691,
-    "timeWeek": 716,
-    "timeMonth": 723,
-    "timeYear": 723,
+    "uptimeMonth": "95.49%",
+    "uptimeYear": "95.49%",
+    "time": 726,
+    "timeDay": 787,
+    "timeWeek": 728,
+    "timeMonth": 726,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2022-09-01": 806
     }
