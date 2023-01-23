@@ -36,5 +36,6 @@ jobs:
         with:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
+          force_orphan: "false"
           user_name: "Krishna Alagiri [ʙᴏᴛ]"
           user_email: "92151357+kalagiri-bot@users.noreply.github.com"
