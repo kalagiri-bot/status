@@ -6,9 +6,9 @@
     "slug": "thekrishna-in-portfolio",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 164,
     "timeDay": 156,
@@ -16,7 +16,7 @@
     "timeMonth": 148,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2023-04-19": 0,
+      "2023-04-19": 22,
       "2022-08-19": 29
     }
   },
